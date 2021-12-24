@@ -118,6 +118,7 @@ The following 75 microcontroller boards are currently supported:
 * [ST Micro "Nucleo" WL55JC](https://www.st.com/en/evaluation-tools/nucleo-wl55jc.html)
 * [ST Micro STM32F103XX "Bluepill"](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill)
 * [ST Micro STM32F407 "Discovery"](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
+* [ST Micro STM32F469 "Discovery"](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-discovery-kits/32f469idiscovery.html)
 * [X9 Pro smartwatch](https://github.com/curtpw/nRF5x-device-reverse-engineering/tree/master/X9-nrf52832-activity-tracker/)
 * [The Things Industries Generic Node Sensor Edition](https://www.genericnode.com/docs/sensor-edition/)
 
